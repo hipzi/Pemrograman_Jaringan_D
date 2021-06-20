@@ -97,7 +97,7 @@ def get_100_image(gambar):
     print(status_task)
 
 if __name__=='__main__':
-    server_address=('0.0.0.0',6666)
+    server_address=('192.168.122.67',7777)
     # remote_list()
     #remote_get('donalbebek.jpg')
     get_100_image('pokijan.jpg')
